@@ -1,0 +1,25 @@
+{
+  "name": "bot-crypto-telegram",
+  "version": "1.0.0",
+  "description": "Bot for Telegram App where he can tell us about the current price of cryptos in local currency every hour",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosSalinas97/bot-crypto-telegram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosSalinas97/bot-crypto-telegram/issues"
+  },
+  "homepage": "https://github.com/CarlosSalinas97/bot-crypto-telegram#readme"
+}
